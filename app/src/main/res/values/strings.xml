@@ -1,0 +1,77 @@
+<resources>
+
+    <!--strings used for main activity-->
+    <string name="app_name">Gymmunity</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="newuserregistration">New user? Register with us here!</string>
+    <string name="gymmunitylogo">gymmunitylogo</string>
+
+    <!--strings used for new user registration-->
+    <string name="slogan">Be part of our community!</string>
+    <string name="loginwithgoogle">Log in with Google</string>
+    <string name="or">OR</string>
+    <string name="email">Email</string>
+    <string name="fullname">Full Name</string>
+    <string name="signup">signup</string>
+
+    <!--strings used for main menu-->
+    <string-array name="features">
+        <item>MyRoutine</item>
+        <item>Exercises</item>
+        <item>Weight and Calorie Tracker</item>
+        <item>Gallery</item>
+        <item>Forum</item>
+    </string-array>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_newpost">NewpostActivity</string>
+
+    <!-- Strings used for newpost Activity -->
+    <string name="addimage">Click here to add image</string>
+    <string name="caption">Insert caption here</string>
+    <string name="post">Post</string>
+
+    <!-- Strings used for calorie and weight tracker -->
+    <string name="weight">Current Weight</string>
+    <string name="update">Update</string>
+    <string name="calorie">Total calories \n consumed today</string>
+    <string name="add">add</string>
+    <string name="kg">kg</string>
+    <string name="cal">cal</string>
+    <string name="weighthint">Enter weight here</string>
+    <string name="caloriehint">Enter calories consumed here</string>
+
+    <!-- Strings used for Settings Activity -->
+    <string name="privacy">Privacy</string>
+    <string name="gallery">Set gallery as public</string>
+    <string name="account">Account Settings</string>
+    <string name="changepassword">Change Password</string>
+    <string name="logout">Log out from your Account</string>
+    <string name="delete">Delete Account :(</string>
+
+    <!-- Strings used for update password activity -->
+    <string name="currentpassword">Current Password</string>
+    <string name="newpassword">New Password</string>
+
+
+</resources>
