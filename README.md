@@ -1,4 +1,4 @@
-# Fitness-app for NUS orbital summer module
+# Fitness-app for NUS orbital
 A rudimentary prototype of social media fitness app created using android studio in java, with limited UI design
 
 ### Software used:
